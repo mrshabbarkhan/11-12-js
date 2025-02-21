@@ -53,26 +53,26 @@
 
 // Array
 
-let arr = ["hello", 30, true, null];
-2;
+// let arr = ["hello", 30, true, null];
+// 2;
 
 // console.log(arr[3]);
 
-let farhan = {
-  name: "farhan",
-  lastName: "Akhatar",
-  address: "Indore",
-};
-let shivani = {
-  name: "shivani",
-  lastName: "Alawa",
-  address: "Indore",
-};
-let shadab = {
-  name: "shadab",
-  lastName: "khan",
-  address: "Indore",
-};
+// let farhan = {
+//   name: "farhan",
+//   lastName: "Akhatar",
+//   address: "Indore",
+// };
+// let shivani = {
+//   name: "shivani",
+//   lastName: "Alawa",
+//   address: "Indore",
+// };
+// let shadab = {
+//   name: "shadab",
+//   lastName: "khan",
+//   address: "Indore",
+// };
 
 // let students = [
 //   {
