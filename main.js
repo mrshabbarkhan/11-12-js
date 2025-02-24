@@ -144,9 +144,44 @@
 //   console.log("Mujhe nhi pata");
 // }
 
+// console.log("code push")
 
+// let name = true;
 
+// if (!name) {
+//   console.log("exist");
+// }
 
+// // let number = 6789
+// let number = prompt("Enter your number");
+// if (number) {
+//   console.log(+number + +number);
+// } else {
+//   console.log("number not found");
+// }
 
+// what is loops is js
 
-console.log("code push")
+// there are 6 types of loop in js
+
+// 1) for loop
+// 2) while loop
+// 3) do while loop
+// 4) for each
+// 5) for of loop
+// 6) for in
+
+// : ; , - "" ' ` # @ % && * () {}
+
+// for(innitialization;condition;inc/dec){
+//     //execution
+// }
+
+// for(let shadab = 1; shadab <= 100; shadab++){
+//     console.log(shadab)
+// }
+
+// let number = prompt("Enter the number for printing table");
+// for (let num = 1; num <= 10; num++) {
+//   console.log(num * number);
+// }
