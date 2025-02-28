@@ -1,3 +1,5 @@
+// "use strict";
+
 // console.log(2 + 2, "answer");
 
 // types of variables
@@ -486,6 +488,16 @@
 //   },
 // ];
 
+// function Rating(star) {
+//   for (i = 0; i < products.length; i++) {
+//     if (products[i].rating.rate > star) {
+//       console.log(products[i]);
+//     }
+//   }
+// }
+
+// Rating(4.5);
+
 // Which product has the highest price in the given list?
 // let maxPrice = products[0].price;
 // for (let i = 0; i < products.length; i++) {
@@ -514,3 +526,35 @@
 // 1) Scope of varibles;
 // 2) Any 10 methods of Array
 // 3) Types of functions
+
+// for (i = 0; i < 30; i++) {
+//   if (i == 20) {
+//     console.log(i);
+//   } else if (i > 19) {
+//     i = 0;
+//   } else {
+//     console.log("nope");
+//   }
+// }
+
+// Types of Functions
+
+// 1) Regular Function
+// 2) Arrow Function
+
+// function Print() {
+//   console.log("Js day 08");
+//   console.log("Ended Today");
+// }
+
+// Print();
+// Print();
+// Print();
+
+// function Table(num) {
+//   for (i = 1; i <= 10; i++) {
+//     console.log(i * num);
+//   }
+// }
+
+// Table(363);
